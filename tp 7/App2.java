@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class App2 {
     public static void main(String[] args) {
         int[][] M = new int[30][30];
@@ -28,6 +27,6 @@ public class App2 {
         moy = s / (nl * nc);
         System.out.println("La somme :" + s);
         System.out.println("Le produit : " + p);
-        System+.out.println("La moyenne : " + moy);
+        System.out.println("La moyenne : " + moy);
     }
 }

@@ -41,8 +41,8 @@ public class App1 {
             }
         }
         if (valid)
-            System.out.println(x + " validé!");
+            System.out.println(x + " valide ");
         else
-            System.out.println(x + " n'est pas validé");
+            System.out.println(x + " nest pas valide");
     }
 }
