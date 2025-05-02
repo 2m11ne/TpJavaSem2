@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Methode {
     public static int lectureN() {
         int n;
